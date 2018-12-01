@@ -1,7 +1,7 @@
 Package: jp.soh.alwayscharging
 Name: AlwaysCharging
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Spoof Battery Charging
 Maintainer: Soh Satoh
